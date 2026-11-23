@@ -13,7 +13,7 @@ Model runs on provider infrastructure	Model uses your EC2 CPU/RAM/GPU
 
 Important: Ollama is free software, but AWS EC2 is not free in general. You pay for EC2 compute, storage, and data transfer as applicable. Model quality also depends on the model you select.
 
-========================================
+
 2. Understand our project requirements
 ========================================
 Before creating the EC2 instance, let's decide the server configuration.

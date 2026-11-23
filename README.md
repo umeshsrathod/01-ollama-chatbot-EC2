@@ -1,6 +1,7 @@
-# 01-ollama-chatbot-EC2
+ GenAI Project 1 – Deploy Ollama on AWS EC2 Ubuntu Server
+===========================================
 1. First, understand what we are building
-==============
+===========================================
 Normally, Ollama runs an LLM on a local computer. In our project, we will install Ollama on an AWS EC2 Ubuntu instance.
 
 What is the difference between OpenAI and Ollama?
@@ -13,7 +14,7 @@ Model runs on provider infrastructure	Model uses your EC2 CPU/RAM/GPU
 
 Important: Ollama is free software, but AWS EC2 is not free in general. You pay for EC2 compute, storage, and data transfer as applicable. Model quality also depends on the model you select.
 
-
+===========================================
 2. Understand our project requirements
 ========================================
 Before creating the EC2 instance, let's decide the server configuration.

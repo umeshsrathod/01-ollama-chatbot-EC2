@@ -1,5 +1,4 @@
 # 01-ollama-chatbot-EC2
-===========================================
 1. First, understand what we are building
 ===========================================
 Normally, Ollama runs an LLM on a local computer. In our project, we will install Ollama on an AWS EC2 Ubuntu instance.
